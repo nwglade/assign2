@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a25ce0d0-24a7-4b0f-a568-c39d13963191" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1YN70mtpV8i3LA8kXfTnxY0JAUw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/.gitconfig" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Nick\Documents\3900\activities\39s20s28\foodservice\mfscrm\crm\templates\registration" />
+      <recent name="C:\Users\Nick\Documents\3900\activities\39s20s28\foodservice\mfscrm\crm\static\images" />
+      <recent name="C:\Users\Nick\Documents\3900\activities\39s20s28\foodservice\mfscrm\crm\static\css" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a25ce0d0-24a7-4b0f-a568-c39d13963191" name="Default Changelist" comment="" />
+      <created>1582770977970</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582770977970</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1039" y="504" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582772134164">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1039" y="504" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1582772134164" />
+    <state x="1060" y="456" key="FileChooserDialogImpl" timestamp="1582853662504">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1060" y="456" key="FileChooserDialogImpl/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1582853662504" />
+    <state x="2560" y="0" width="1921" height="956" maximized="true" key="dock-window-1" timestamp="1582777932428">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2560" y="0" width="1921" height="956" maximized="true" key="dock-window-1/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1582777932428" />
+    <state x="2560" y="0" width="1921" height="956" key="dock-window-2" timestamp="1582779486441">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2560" y="0" width="1921" height="956" key="dock-window-2/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1582779486441" />
+    <state x="2566" y="0" width="1921" height="1047" key="dock-window-3" timestamp="1582853261649">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2566" y="0" width="1921" height="1047" key="dock-window-3/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1582853261649" />
+  </component>
+</project>
